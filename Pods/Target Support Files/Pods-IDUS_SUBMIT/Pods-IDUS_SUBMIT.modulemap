@@ -1,0 +1,6 @@
+framework module Pods_IDUS_SUBMIT {
+  umbrella header "Pods-IDUS_SUBMIT-umbrella.h"
+
+  export *
+  module * { export * }
+}
